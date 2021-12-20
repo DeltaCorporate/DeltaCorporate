@@ -8,12 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/hyarotech" target="blank"><img src="https://img.shields.io/twitter/follow/hyarotech?logo=twitter&style=for-the-badge" alt="hyarotech" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://twitter.com/hyarotech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hyarotech" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deltacorporate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deltacorporate" height="30" width="40" /></a>
-<a href="https://instagram.com/deltacorporate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deltacorporate" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hyarotech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hyarotech" height="30" width="40" /></a>
+<a href="https://instagram.com/hyarotech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deltacorporate" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCW1nAY21QfJ7sBsQB4kO-uw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hyarotech" height="30" width="40" /></a>
 <a href="https://discord.gg/hTKydqCmyB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hTKydqCmyB" height="30" width="40" /></a>
 </p>
 
