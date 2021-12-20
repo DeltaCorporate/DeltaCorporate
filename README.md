@@ -1,4 +1,4 @@
-<img src="./images/banner.png"/>
+<img src="./images/banner_test2_hyarotech.jpg"/>
 <h1 align="center">Hi 👋, I'm Houmame LAZAR</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
