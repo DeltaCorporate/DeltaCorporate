@@ -1,3 +1,4 @@
+<img src="./images/banner.png"/>
 <h1 align="center">Hi 👋, I'm Houmame LAZAR</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
